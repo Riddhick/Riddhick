@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Riddhick Dalal</h1>
-<h3 align="center">Full-stack developer skilled in PHP and Servlet, also always open to learn newer technologies</h3>
+<h3 align="center">Software Developer and Data Scientist, also always open to learn newer technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhick&label=Profile%20views&color=0e75b6&style=flat" alt="Riddhick" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Riddhick&theme=alduin" alt="Riddhick" /></a> </p>
 
-- 🌱 I’m currently learning **PHP and Flutter**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Java, Python, JavaScript and anything!**
 
 - 📫 How to reach me **riddhick14@gmail.com**
 
-- ⚡ Fun fact **I am also interested in Game Development**
+- ⚡ Fun fact **I am also interested in Game Development and Cyber Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
